@@ -1,0 +1,91 @@
+Файл: pci_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.99
+
+Файл: vga_lcd_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.00
+
+Файл: fir_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.15
+
+Файл: aes_secworks_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.97
+
+Файл: tv80_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.98
+
+Файл: dft_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.00
+
+Файл: tinyRocket_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.95
+
+Файл: sasc_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.97
+
+Файл: aes_xcrypt_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.04
+
+Файл: dynamic_node_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.92
+
+Файл: ac97_ctrl_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.00
+
+Файл: i2c_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.96
+
+Файл: ss_pcm_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.00
+
+Файл: ethernet_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.92
+
+Файл: simple_spi_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.03
+
+Файл: idft_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.01
+
+Файл: wb_dma_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.91
+
+Файл: wb_conmax_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.95
+
+Файл: spi_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.98
+
+Файл: sha256_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.00
+
+Файл: usb_phy_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.97
+
+Файл: picosoc_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.96
+
+Файл: jpeg_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.00
+
+Файл: fpu_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.80
+
+Файл: des3_area_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.05
+
+Файл: aes_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.02
+
+Файл: bp_be_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.93
+
+Файл: mem_ctrl_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 0.88
+
+Файл: iir_orig.bench
+Отношение ADP(adp_optimized / adp_initial): 1.07
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Среднее отношение ADP: 1.01
+~~~~~~~~~~~~~~~~~~~~~~~~~~
